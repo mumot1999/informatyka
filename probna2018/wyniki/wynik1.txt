@@ -1,0 +1,2 @@
+ilosc arytetycznych = 44
+roznica_max = 684362

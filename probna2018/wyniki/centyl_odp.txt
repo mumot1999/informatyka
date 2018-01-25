@@ -1,0 +1,4 @@
+1. id = 718, przyrost = 369.5652173913044%
+2. 11lat  12lat  13lat
+3. 17
+4. ch: 11lat dz: 8lat
